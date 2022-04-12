@@ -1,1 +1,1 @@
-Repositry for c programming
+Directory for nested loops
