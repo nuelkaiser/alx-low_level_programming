@@ -3,12 +3,12 @@
 
 /**
  * add -prints add two numbers
- *@i: print int a
- *@k: print int c
+ *@i: print int i
+ *@k: print int k
  * Return: Always 0.
  */
 
-int add(int a, int c)
+int add(int i, int k)
 {
-return (a + c);
+return (i + k);
 }
